@@ -1,0 +1,1 @@
+This is my sample docker hello world
